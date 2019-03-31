@@ -1,4 +1,4 @@
-# pylint: disable=W0614
+ # pylint: disable=W0614
 from tkinter import *
 import fileinput
 from plyer import notification
